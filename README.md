@@ -1,1 +1,1 @@
-# first_django
+This is simple starting django project
